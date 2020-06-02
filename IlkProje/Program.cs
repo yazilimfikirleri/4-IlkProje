@@ -10,7 +10,8 @@ namespace IlkProje
     {
         static void Main(string[] args)
         {
-            
+            //Console uygulaması.
+
             Console.Write("Merhaba Dünya");//Console.Write() metodu ekrana yazmak istediğimiz metinler için kullanırız.
             Console.Read();//Console.Read() metodu console'un kapanmaması için kullanırız.
 
